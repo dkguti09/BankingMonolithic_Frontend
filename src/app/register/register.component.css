@@ -1,0 +1,17 @@
+.card {
+    
+    /* background-color: rgba(54, 71, 71, 0.632); */
+    background-color: rgba(71, 68, 68, 0.411)
+
+    
+}
+
+.title{
+    color: rgb(219, 223, 224);
+    font-weight: 1500vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card p{
+    font-family: 'Times New Roman', Times, serif;
+}
